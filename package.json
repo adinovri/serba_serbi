@@ -1,13 +1,14 @@
 {
   "name": "serba-serbi-adi",
   "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null,
+  "description": "Serba-Serbi React Native oleh Adi!",
+  "author": "adinovri",
   "private": true,
   "main": "main.js",
   "dependencies": {
     "expo": "^15.0.2",
     "react": "~15.4.0",
-    "react-native": "https://github.com/exponent/react-native/archive/sdk-15.0.0.tar.gz"
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-15.0.0.tar.gz",
+    "react-native-swipe-cards": "^0.1.0"
   }
 }
